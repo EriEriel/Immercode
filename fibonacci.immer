@@ -1,0 +1,18 @@
+UMU
+ACTUALLY a = 0
+ACTUALLY b = 1
+ACTUALLY count = 0
+
+ENCORE! count < 10
+    LISTEN TO ME: a
+    ACTUALLY temp = a + b
+    ACTUALLY a = b
+    ACTUALLY b = temp
+    ACTUALLY count = count + 1
+    
+    // Soothing the automaton so she doesn't crash the math
+    UMU
+    I LOVE ~Green Tea~
+CURTAIN CALL.
+
+JUSTICE!
