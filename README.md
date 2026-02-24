@@ -52,5 +52,5 @@
 
 ```python immer_interpreter.py your_logic.immer```
 
-**Warning** : Do not insult green tea within your code. The interpreter is watching.
+**Warning** : Do not insult green lady within your code. The interpreter is watching.
 
