@@ -15,7 +15,7 @@
 -25 to -50   Mechanical Malfunction  Glitch Mode: 30% chance to jump to random lines.
 < -51        Divine Retribution      CRASH: File is renamed to SKILL_ISSUE.immer.
 
-### Syntax Reference
+## Syntax Reference
 1. Variables, Math & Comparison operation
   - ```ACTUALLY [var]``` = [val] : Declare/update a variable (Negative Keyword).
   - ```+, -, *``` : Arithmetic.
@@ -41,11 +41,11 @@
     - 2-10: Random jump.
     - 20: Critical Justice (Mood 100).
 
-#### File Naming & Punishment
+## File Naming & Punishment
   - Extension: .immer
   - The Vandalism Clause: If the mood drops below -50, Cecilia will use os.rename() to change your source file to SKILL_ISSUE.immer. She will refuse to run any file with this name until you learn some respect.
 
-##### Installation
+## Installation
   1. Ensure you have Python 3.10+ installed.
   2. Save the immer_interpreter.py to your directory.
   3. Run your code:
