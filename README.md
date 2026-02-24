@@ -54,3 +54,5 @@
 
 **Warning** : Do not insult green lady within your code. The interpreter is watching.
 
+## LICENSE
+  MIT — do whatever you want, just don’t blame me, LMAO.
